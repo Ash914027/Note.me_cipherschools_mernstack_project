@@ -5,7 +5,7 @@ Note.me is a simple and intuitive note-taking application that allows users to c
 ## 📋 Main Function Points
 - ✍️ Create, edit, and delete notes
 - 🗂️ Organize notes with tags and categories
-- 🔍 Search and filter notes
+- 🔍 Search and filter notes.
 - 🌟 User-friendly interface
 
 ## ⚙️ Technology Stack
