@@ -16,4 +16,4 @@ Note.me is a simple and intuitive note-taking application that allows users to c
 - Node.js (for the server-side)
 
 ## 📄 License
-The project does not specify a license, so the default copyright applies.
+The project does not specify a license, so the default copyright applies..
