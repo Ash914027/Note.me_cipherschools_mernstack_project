@@ -10,7 +10,7 @@ Note.me is a simple and intuitive note-taking application that allows users to c
 
 ## ⚙️ Technology Stack
 - JavaScript
-- HTML
+- HTML.
 - CSS
 - React (for the client-side)
 - Node.js (for the server-side)
