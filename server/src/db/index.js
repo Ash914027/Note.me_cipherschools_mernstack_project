@@ -1,19 +1,19 @@
-// const mongoose = require("mongoose");
+const mongoose = require("mongoose");
 
-// const MONGODB_URI =
-//   "mongodb+srv://satendraprataps56:Windos123@cluster0.cig8esf.mongodb.net/";
-// mongoose
-//   .connect(MONGODB_URI, {
+const MONGODB_URI =
+  "mongodb+srv://satendraprataps56:Windos123@cluster0.cig8esf.mongodb.net/";
+mongoose
+  .connect(MONGODB_URI, {
     
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true,
-//   })
-//   .then(() => {
-//     console.log("Connected to mongoDb");
-//   })
-//   .catch((err) => {
-//     console.log(err.message);
-//   });
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then(() => {
+    console.log("Connected to mongoDb");
+  })
+  .catch((err) => {
+    console.log(err.message);
+  });
 
 
 const mongoose = require('mongoose');
